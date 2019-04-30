@@ -1,12 +1,12 @@
 # Lambda CRUD App
 
-## install packages
+## Install packages
 - `npm install`
 
-## deploy
+## Deploy
 - `sls deploy`
 
-## check endpoints
+## Check EndPoints
 #### Create
 - `curl -X POST <url> --data '{"body" : "post"}'`
 #### ReadAll
